@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Routes as RouterRoutes, Route } from "react-router-dom";
+import { BrowserRouter, Routes as RouterRoutes, Route } from "react-router-dom";
 import ScrollToTop from "components/ScrollToTop";
 import ErrorBoundary from "components/ErrorBoundary";
 import NotFound from "pages/NotFound";
@@ -12,7 +12,7 @@ import Homepage from "./pages/homepage";
 
 const Routes = () => {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <ErrorBoundary>
         <ScrollToTop />
         <RouterRoutes>
@@ -33,7 +33,7 @@ const Routes = () => {
           <Route path="*" element={<NotFound />} />
         </RouterRoutes>
       </ErrorBoundary>
-    </HashRouter>
+    </BrowserRouter>
   );
 };
 
