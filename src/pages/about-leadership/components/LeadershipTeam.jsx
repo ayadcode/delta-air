@@ -12,8 +12,8 @@ const LeadershipTeam = () => {
       name: "Michael Rodriguez",
       position: "Chief Executive Officer & Founder",
       experience: "25+ Years",
-      image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
       bio: `Michael founded Delta Air with a vision to revolutionize infrastructure development. His leadership has guided the company through 25 years of growth and innovation.`,
       specializations: [
         "Strategic Planning",
@@ -41,8 +41,8 @@ const LeadershipTeam = () => {
       name: "Sarah Chen",
       position: "Chief Technology Officer",
       experience: "18+ Years",
-      image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
       bio: `Sarah leads Delta Air's technology initiatives, driving innovation in smart building systems and sustainable MEP solutions. Her expertise spans both traditional engineering and cutting-edge IoT integration.`,
       specializations: [
         "Smart Building Technology",
@@ -70,8 +70,8 @@ const LeadershipTeam = () => {
       name: "David Thompson",
       position: "Chief Operations Officer",
       experience: "22+ Years",
-      image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
       bio: `David oversees all operational aspects of Delta Air, ensuring project delivery excellence and maintaining our industry-leading safety standards across all installations.`,
       specializations: [
         "Project Management",
@@ -99,8 +99,8 @@ const LeadershipTeam = () => {
       name: "Jennifer Martinez",
       position: "Chief Financial Officer",
       experience: "15+ Years",
-      image:
-        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
       bio: `Jennifer manages Delta Air's financial strategy and growth initiatives. Her expertise in construction finance and risk management has been instrumental in the company's sustained profitability.`,
       specializations: [
         "Financial Planning",

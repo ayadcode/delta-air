@@ -96,25 +96,25 @@ const TrustCenter = () => {
     {
       name: "Schneider Electric",
       type: "Authorized Partner",
-      logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=100&fit=crop",
+      // logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=100&fit=crop",
       specialization: "Electrical Systems & Automation",
     },
     {
       name: "Johnson Controls",
       type: "Certified Installer",
-      logo: "https://images.unsplash.com/photo-1560472355-536de3962603?w=200&h=100&fit=crop",
+      // logo: "https://images.unsplash.com/photo-1560472355-536de3962603?w=200&h=100&fit=crop",
       specialization: "HVAC & Building Controls",
     },
     {
       name: "Victaulic",
       type: "Preferred Contractor",
-      logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=100&fit=crop",
+      // logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=100&fit=crop",
       specialization: "Piping & Fire Protection",
     },
     {
       name: "Trane",
       type: "Authorized Dealer",
-      logo: "https://images.unsplash.com/photo-1560472355-536de3962603?w=200&h=100&fit=crop",
+      // logo: "https://images.unsplash.com/photo-1560472355-536de3962603?w=200&h=100&fit=crop",
       specialization: "Commercial HVAC Systems",
     },
   ];

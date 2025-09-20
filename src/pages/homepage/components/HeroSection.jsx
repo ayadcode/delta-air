@@ -39,8 +39,8 @@ const HeroSection = () => {
       title: "Downtown Medical Center",
       type: "Healthcare Facility",
       status: "95% Complete",
-      image:
-        "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&h=600&fit=crop",
+      // image:
+      // "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&h=600&fit=crop",
       highlight: "Advanced HVAC system with 40% energy reduction",
     },
     {

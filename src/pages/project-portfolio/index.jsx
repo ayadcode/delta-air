@@ -29,13 +29,13 @@ const ProjectPortfolio = () => {
       description:
         "Complete HVAC system overhaul for a 500-bed hospital facility, including installation of energy-efficient chillers, air handling units, and smart building automation systems.",
       fullDescription: `This comprehensive project involved the complete modernization of the HVAC infrastructure for Metropolitan Hospital, a critical healthcare facility serving over 100,000 patients annually. The challenge was to upgrade aging systems while maintaining continuous operations in a sensitive medical environment.\n\nOur team implemented a phased approach, working during off-peak hours and coordinating closely with hospital staff to ensure zero disruption to patient care. The new system features state-of-the-art variable air volume controls, energy recovery ventilation, and advanced filtration systems that exceed healthcare industry standards.`,
-      image:
-        "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop",
-      gallery: [
-        "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=600&fit=crop",
-      ],
+      // image:
+      // "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop",
+      // gallery: [
+      // "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=600&fit=crop",
+      // ],
       systems: ["HVAC", "Smart Systems", "Energy Management"],
       industry: "Healthcare",
       complexity: "Expert",
@@ -123,13 +123,13 @@ const ProjectPortfolio = () => {
       description:
         "Design and installation of sustainable electrical systems for a LEED Platinum certified office building, featuring solar integration and smart energy management.",
       fullDescription: `This project represents the pinnacle of sustainable electrical design, serving as a model for future commercial developments. The 25-story office complex required a sophisticated electrical infrastructure that could support modern business needs while achieving aggressive sustainability targets.\n\nOur innovative approach included the integration of rooftop solar arrays, battery storage systems, and advanced power management controls. The building now operates at net-zero energy consumption during peak daylight hours and has become a showcase for sustainable commercial construction.`,
-      image:
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
-      gallery: [
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=600&fit=crop",
-      ],
+      // image:
+      // "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+      // gallery: [
+      // "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=600&fit=crop",
+      // ],
       systems: ["Electrical", "Smart Systems", "Energy Management"],
       industry: "Commercial",
       complexity: "Advanced",
@@ -217,13 +217,13 @@ const ProjectPortfolio = () => {
       description:
         "Comprehensive plumbing and fire protection systems for a 300-room luxury resort, including water recycling systems and advanced fire suppression technology.",
       fullDescription: `This prestigious resort project demanded the highest standards of luxury and safety, requiring innovative solutions for water management and fire protection across multiple buildings and amenities. The complex included guest rooms, restaurants, spa facilities, and recreational areas, each with unique requirements.\n\nOur team designed and installed a sophisticated water management system featuring greywater recycling, rainwater harvesting, and advanced filtration systems. The fire protection system incorporates the latest in suppression technology, including mist systems for sensitive areas and foam systems for high-risk zones.`,
-      image:
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop",
-      gallery: [
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop",
-      ],
+      // image:
+      // "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop",
+      // gallery: [
+      // "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop",
+      // ],
       systems: ["Plumbing", "Fire Safety", "Smart Systems"],
       industry: "Hospitality",
       complexity: "Advanced",
@@ -312,13 +312,13 @@ const ProjectPortfolio = () => {
       description:
         "Complete MEP systems design for a state-of-the-art manufacturing facility with integrated automation and energy monitoring systems.",
       fullDescription: `This cutting-edge manufacturing facility required a fully integrated MEP approach to support advanced production processes while maintaining optimal energy efficiency. The 200,000 square foot facility houses precision manufacturing equipment that demands stable environmental conditions and reliable power distribution.\n\nOur integrated approach combined HVAC, electrical, and plumbing systems with advanced automation controls, creating a smart facility that adapts to production demands in real-time. The result is a manufacturing environment that maintains precise conditions while optimizing energy consumption.`,
-      image:
-        "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=800&h=600&fit=crop",
-      gallery: [
-        "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
-      ],
+      // image:
+      // "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=800&h=600&fit=crop",
+      // gallery: [
+      // "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      // ],
       systems: ["HVAC", "Electrical", "Plumbing", "Smart Systems"],
       industry: "Industrial",
       complexity: "Expert",
@@ -406,13 +406,13 @@ const ProjectPortfolio = () => {
       description:
         "Campus-wide energy efficiency retrofit including HVAC upgrades, LED lighting conversion, and smart building automation across 15 buildings.",
       fullDescription: `This comprehensive campus retrofit project addressed aging infrastructure across 15 academic and residential buildings, totaling over 2 million square feet. The university sought to reduce operational costs while improving comfort and learning environments for students and faculty.\n\nOur phased approach minimized disruption to academic schedules while delivering significant energy savings. The project included complete HVAC system upgrades, campus-wide LED lighting conversion, and implementation of a centralized building automation system that provides real-time monitoring and control.`,
-      image:
-        "https://images.unsplash.com/photo-1562774053-701939374585?w=800&h=600&fit=crop",
-      gallery: [
-        "https://images.unsplash.com/photo-1562774053-701939374585?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1523050854058-8df90110c9d1?w=800&h=600&fit=crop",
-      ],
+      // image:
+      // "https://images.unsplash.com/photo-1562774053-701939374585?w=800&h=600&fit=crop",
+      // gallery: [
+      // "https://images.unsplash.com/photo-1562774053-701939374585?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1523050854058-8df90110c9d1?w=800&h=600&fit=crop",
+      // ],
       systems: ["HVAC", "Electrical", "Energy Management", "Smart Systems"],
       industry: "Education",
       complexity: "Advanced",
@@ -498,13 +498,13 @@ const ProjectPortfolio = () => {
       description:
         "Mission-critical MEP systems for a Tier III data center, featuring redundant power, precision cooling, and advanced fire suppression systems.",
       fullDescription: `This mission-critical data center project required the highest levels of reliability and redundancy to support 24/7 operations for cloud computing services. The facility houses thousands of servers generating significant heat loads while demanding uninterrupted power and precise environmental control.\n\nOur design incorporates N+1 redundancy across all critical systems, ensuring continuous operation even during maintenance or equipment failures. The precision cooling system maintains strict temperature and humidity controls, while the electrical infrastructure provides multiple levels of backup power protection.`,
-      image:
-        "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
-      gallery: [
-        "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
-      ],
+      // image:
+      // "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+      // gallery: [
+      // "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&h=600&fit=crop",
+      // "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
+      // ],
       systems: ["HVAC", "Electrical", "Fire Safety", "Smart Systems"],
       industry: "Technology",
       complexity: "Expert",

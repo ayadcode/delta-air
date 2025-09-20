@@ -16,8 +16,8 @@ const CoreValues = () => {
         result:
           "Implemented IoT-enabled HVAC system reducing energy consumption by 35%",
       },
-      image:
-        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
     },
     {
       id: 2,
@@ -31,8 +31,8 @@ const CoreValues = () => {
         result:
           "Completed 18-month project with zero safety incidents and 100% compliance",
       },
-      image:
-        "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
     },
     {
       id: 3,
@@ -46,8 +46,8 @@ const CoreValues = () => {
         result:
           "5-year partnership resulting in 12 successful projects and 98% client satisfaction",
       },
-      image:
-        "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
     },
     {
       id: 4,
@@ -60,8 +60,8 @@ const CoreValues = () => {
         name: "Luxury Residential Tower",
         result: "Premium MEP installations with 25-year performance warranty",
       },
-      image:
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
     },
     {
       id: 5,
@@ -75,8 +75,8 @@ const CoreValues = () => {
         result:
           "Achieved highest sustainability rating with 40% energy savings",
       },
-      image:
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
     },
     {
       id: 6,
@@ -90,8 +90,8 @@ const CoreValues = () => {
         result:
           "100% of engineers maintain current certifications with 40+ hours annual training",
       },
-      image:
-        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
     },
   ];
 

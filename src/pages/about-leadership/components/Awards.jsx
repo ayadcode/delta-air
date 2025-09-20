@@ -15,8 +15,8 @@ const Awards = () => {
       category: "industry",
       description:
         "Recognized for outstanding project delivery, innovation in MEP solutions, and commitment to sustainable building practices.",
-      image:
-        "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Delta Air industry recognition for overall excellence in MEP contracting and project delivery.",
       icon: "Trophy",
@@ -29,8 +29,8 @@ const Awards = () => {
       category: "safety",
       description:
         "Achieved zero recordable incidents across all projects with over 500,000 work hours completed safely.",
-      image:
-        "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Recognition for maintaining the highest safety standards and protecting our workforce.",
       icon: "Shield",
@@ -43,8 +43,8 @@ const Awards = () => {
       category: "sustainability",
       description:
         "Innovative MEP design for LEED Platinum office complex achieving 45% energy savings over baseline.",
-      image:
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Demonstrates our leadership in sustainable MEP solutions and environmental stewardship.",
       icon: "Leaf",
@@ -57,8 +57,8 @@ const Awards = () => {
       category: "technology",
       description:
         "Implementation of IoT-enabled building automation system reducing operational costs by 30%.",
-      image:
-        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Recognition for pioneering smart building technologies and digital transformation.",
       icon: "Cpu",
@@ -71,8 +71,8 @@ const Awards = () => {
       category: "project",
       description:
         "Outstanding mechanical system installation for luxury residential tower completed ahead of schedule.",
-      image:
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Acknowledges superior project management and technical execution capabilities.",
       icon: "Building",
@@ -85,8 +85,8 @@ const Awards = () => {
       category: "workplace",
       description:
         "Recognized for exceptional workplace culture, employee development programs, and retention rates.",
-      image:
-        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Highlights our commitment to creating an outstanding workplace for our team members.",
       icon: "Users",
@@ -99,8 +99,8 @@ const Awards = () => {
       category: "quality",
       description:
         "Exceptional quality standards maintained across all projects with 99.8% client satisfaction rating.",
-      image:
-        "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Validates our unwavering commitment to delivering superior quality in every project.",
       icon: "Award",
@@ -113,8 +113,8 @@ const Awards = () => {
       category: "community",
       description:
         "Outstanding community service through pro-bono MEP work for local schools and non-profit organizations.",
-      image:
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      // image:
+      // "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
         "Recognizes our dedication to giving back to the community and supporting local initiatives.",
       icon: "Heart",

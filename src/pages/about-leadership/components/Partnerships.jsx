@@ -8,7 +8,7 @@ const Partnerships = () => {
       id: 1,
       name: "Johnson Controls",
       category: "HVAC Systems",
-      logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      // logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
       partnership: "Authorized Dealer",
       benefits: ["Preferred pricing", "Technical support", "Training programs"],
       description:
@@ -18,7 +18,7 @@ const Partnerships = () => {
       id: 2,
       name: "Schneider Electric",
       category: "Electrical Systems",
-      logo: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      // logo: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
       partnership: "Certified Partner",
       benefits: [
         "Advanced training",
@@ -32,7 +32,7 @@ const Partnerships = () => {
       id: 3,
       name: "Grundfos",
       category: "Pumping Solutions",
-      logo: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      // logo: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
       partnership: "Premium Partner",
       benefits: [
         "Extended warranties",
@@ -46,7 +46,7 @@ const Partnerships = () => {
       id: 4,
       name: "Honeywell",
       category: "Building Automation",
-      logo: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      // logo: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
       partnership: "Authorized Integrator",
       benefits: [
         "Certification programs",
@@ -60,7 +60,7 @@ const Partnerships = () => {
       id: 5,
       name: "Carrier",
       category: "Climate Solutions",
-      logo: "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      // logo: "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
       partnership: "Factory Authorized",
       benefits: ["Factory training", "Warranty support", "Technical resources"],
       description: "Global leader in intelligent climate and energy solutions",
@@ -69,7 +69,7 @@ const Partnerships = () => {
       id: 6,
       name: "Siemens",
       category: "Smart Infrastructure",
-      logo: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      // logo: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
       partnership: "Solution Partner",
       benefits: ["Innovation access", "Joint development", "Market expansion"],
       description:

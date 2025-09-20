@@ -15,8 +15,8 @@ const TeamContacts = () => {
       certifications: ["PE", "LEED AP", "CEM"],
       phone: "(555) 123-4567 ext. 101",
       email: "michael.rodriguez@deltaair.com",
-      avatar:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+      // avatar:
+      // "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
       availability: "Available for consultations",
       responseTime: "Same day",
       projectTypes: ["Large Commercial", "Industrial", "Healthcare"],
@@ -36,8 +36,8 @@ const TeamContacts = () => {
       certifications: ["PE", "NECA Certified", "NICET Level IV"],
       phone: "(555) 123-4567 ext. 102",
       email: "sarah.chen@deltaair.com",
-      avatar:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face",
+      // avatar:
+      // "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face",
       availability: "Available for consultations",
       responseTime: "< 4 hours",
       projectTypes: ["Data Centers", "Hospitals", "Manufacturing"],
@@ -61,8 +61,8 @@ const TeamContacts = () => {
       ],
       phone: "(555) 123-4567 ext. 103",
       email: "david.thompson@deltaair.com",
-      avatar:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+      // avatar:
+      // "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
       availability: "Available for consultations",
       responseTime: "< 6 hours",
       projectTypes: ["High-rise Buildings", "Educational", "Retail"],
@@ -78,8 +78,8 @@ const TeamContacts = () => {
       certifications: ["PE", "ASHRAE Certified", "HERS Rater"],
       phone: "(555) 123-4567 ext. 104",
       email: "jennifer.park@deltaair.com",
-      avatar:
-        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+      // avatar:
+      // "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
       availability: "Available for consultations",
       responseTime: "< 3 hours",
       projectTypes: ["Office Buildings", "Residential", "Clean Rooms"],
@@ -103,8 +103,8 @@ const TeamContacts = () => {
       ],
       phone: "(555) 911-MEP1",
       email: "emergency@deltaair.com",
-      avatar:
-        "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+      // avatar:
+      // "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
       availability: "24/7 Emergency Response",
       responseTime: "< 2 hours",
       projectTypes: [
@@ -128,8 +128,8 @@ const TeamContacts = () => {
       certifications: ["PMP", "LEED Green Associate", "Six Sigma Green Belt"],
       phone: "(555) 123-4567 ext. 105",
       email: "lisa.martinez@deltaair.com",
-      avatar:
-        "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=400&fit=crop&crop=face",
+      // avatar:
+      // "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=400&fit=crop&crop=face",
       availability: "Available for consultations",
       responseTime: "< 2 hours",
       projectTypes: [

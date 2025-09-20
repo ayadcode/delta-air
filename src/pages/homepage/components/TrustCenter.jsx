@@ -10,48 +10,48 @@ const TrustCenter = () => {
     {
       name: "NECA Certified",
       description: "National Electrical Contractors Association",
-      image:
-        "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=120&h=120&fit=crop",
+      // image:
+      // "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=120&h=120&fit=crop",
       validUntil: "2025-12-31",
       category: "Electrical",
     },
     {
       name: "MCAA Member",
       description: "Mechanical Contractors Association of America",
-      image:
-        "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?w=120&h=120&fit=crop",
+      // image:
+      // "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?w=120&h=120&fit=crop",
       validUntil: "2025-06-30",
       category: "Mechanical",
     },
     {
       name: "PHCC Certified",
       description: "Plumbing-Heating-Cooling Contractors Association",
-      image:
-        "https://images.pixabay.com/photo/2020/07/08/04/12/work-5382501_1280.jpg?w=120&h=120&fit=crop",
+      // image:
+      // "https://images.pixabay.com/photo/2020/07/08/04/12/work-5382501_1280.jpg?w=120&h=120&fit=crop",
       validUntil: "2025-09-15",
       category: "Plumbing",
     },
     {
       name: "OSHA 30 Certified",
       description: "Occupational Safety and Health Administration",
-      image:
-        "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=120&h=120&fit=crop",
+      // image:
+      // "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=120&h=120&fit=crop",
       validUntil: "2025-03-20",
       category: "Safety",
     },
     {
       name: "LEED AP Certified",
       description: "Leadership in Energy and Environmental Design",
-      image:
-        "https://images.pexels.com/photos/414837/pexels-photo-414837.jpeg?w=120&h=120&fit=crop",
+      // image:
+      // "https://images.pexels.com/photos/414837/pexels-photo-414837.jpeg?w=120&h=120&fit=crop",
       validUntil: "2025-11-10",
       category: "Sustainability",
     },
     {
       name: "ISO 9001:2015",
       description: "Quality Management System Certification",
-      image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+      // image:
+      // "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
       validUntil: "2025-08-25",
       category: "Quality",
     },
@@ -92,37 +92,37 @@ const TrustCenter = () => {
     {
       name: "Carrier Corporation",
       type: "Authorized Dealer",
-      logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=100&h=60&fit=crop",
+      // logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=100&h=60&fit=crop",
       description: "Commercial HVAC systems and equipment",
     },
     {
       name: "Schneider Electric",
       type: "Certified Partner",
-      logo: "https://images.pexels.com/photos/159298/gears-cogs-machine-machinery-159298.jpeg?w=100&h=60&fit=crop",
+      // logo: "https://images.pexels.com/photos/159298/gears-cogs-machine-machinery-159298.jpeg?w=100&h=60&fit=crop",
       description: "Electrical distribution and automation",
     },
     {
       name: "Honeywell",
       type: "Solutions Partner",
-      logo: "https://images.pixabay.com/photo/2017/08/10/08/47/laptop-2619564_1280.jpg?w=100&h=60&fit=crop",
+      // logo: "https://images.pixabay.com/photo/2017/08/10/08/47/laptop-2619564_1280.jpg?w=100&h=60&fit=crop",
       description: "Building automation and controls",
     },
     {
       name: "Trane Technologies",
       type: "Authorized Service",
-      logo: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=100&h=60&fit=crop",
+      // logo: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=100&h=60&fit=crop",
       description: "Climate control solutions",
     },
     {
       name: "Siemens",
       type: "Technology Partner",
-      logo: "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?w=100&h=60&fit=crop",
+      // logo: "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?w=100&h=60&fit=crop",
       description: "Smart building technologies",
     },
     {
       name: "Johnson Controls",
       type: "Delta Air Partner",
-      logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=100&h=60&fit=crop",
+      // logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=100&h=60&fit=crop",
       description: "Fire safety and security systems",
     },
   ];

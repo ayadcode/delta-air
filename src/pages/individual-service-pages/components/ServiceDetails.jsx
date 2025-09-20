@@ -14,10 +14,10 @@ const ProjectShowcase = ({ selectedService }) => {
         location: "Seattle, WA",
         size: "150,000 sq ft",
         completion: "2024",
-        beforeImage:
-          "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop",
-        afterImage:
-          "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&h=400&fit=crop",
+        // beforeImage:
+        // "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop",
+        // afterImage:
+        // "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&h=400&fit=crop",
         challenge: `The existing HVAC system was inefficient and couldn't maintain proper temperature control across different zones. Energy costs were 40% above industry standards, and patient comfort was compromised.`,
         solution: `Implemented a state-of-the-art variable air volume (VAV) system with smart controls, energy recovery ventilation, and zone-specific temperature management. Integrated building automation system for predictive maintenance.`,
         results: [
@@ -37,10 +37,10 @@ const ProjectShowcase = ({ selectedService }) => {
         location: "Portland, OR",
         size: "200,000 sq ft",
         completion: "2024",
-        beforeImage:
-          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-        afterImage:
-          "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+        // beforeImage:
+        // "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+        // afterImage:
+        // "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
         challenge: `Outdated mechanical systems with poor indoor air quality and high operational costs. The building needed to achieve LEED Gold certification while maintaining occupant comfort.`,
         solution: `Designed and installed high-efficiency HVAC systems with advanced air filtration, demand-controlled ventilation, and integrated IoT sensors for real-time monitoring and optimization.`,
         results: [
@@ -58,10 +58,10 @@ const ProjectShowcase = ({ selectedService }) => {
         location: "Tacoma, WA",
         size: "300,000 sq ft",
         completion: "2024",
-        beforeImage:
-          "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=600&h=400&fit=crop",
-        afterImage:
-          "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop",
+        // beforeImage:
+        // "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=600&h=400&fit=crop",
+        // afterImage:
+        // "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop",
         challenge: `Aging electrical infrastructure couldn't support new high-efficiency equipment. Frequent power outages and safety concerns required immediate attention and code compliance updates.`,
         solution: `Complete electrical system overhaul including new service entrance, distribution panels, LED lighting retrofit, and emergency backup systems. Implemented arc flash mitigation and safety protocols.`,
         results: [
@@ -77,10 +77,10 @@ const ProjectShowcase = ({ selectedService }) => {
         location: "Bellevue, WA",
         size: "75,000 sq ft",
         completion: "2024",
-        beforeImage:
-          "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
-        afterImage:
-          "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=400&fit=crop",
+        // beforeImage:
+        // "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+        // afterImage:
+        // "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=400&fit=crop",
         challenge: `New construction required sophisticated electrical design to support diverse retail tenants with varying power needs, while maintaining energy efficiency and aesthetic appeal.`,
         solution: `Designed flexible electrical infrastructure with tenant-specific panels, smart lighting controls, and integrated security systems. Implemented energy monitoring for individual tenant billing.`,
         results: [
@@ -102,10 +102,10 @@ const ProjectShowcase = ({ selectedService }) => {
         location: "Vancouver, WA",
         size: "250 rooms",
         completion: "2024",
-        beforeImage:
-          "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
-        afterImage:
-          "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&h=400&fit=crop",
+        // beforeImage:
+        // "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
+        // afterImage:
+        // "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&h=400&fit=crop",
         challenge: `Aging plumbing infrastructure with frequent leaks, poor water pressure, and high water consumption. Guest complaints about water quality and temperature consistency were increasing.`,
         solution: `Complete plumbing system replacement with high-efficiency fixtures, pressure-boosting systems, and water recycling technology. Implemented smart leak detection and automated shutoff systems.`,
         results: [
@@ -121,10 +121,10 @@ const ProjectShowcase = ({ selectedService }) => {
         location: "Spokane, WA",
         size: "5,000 sq ft",
         completion: "2024",
-        beforeImage:
-          "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
-        afterImage:
-          "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
+        // beforeImage:
+        // "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        // afterImage:
+        // "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
         challenge: `Frequent grease trap backups and odor issues were affecting restaurant operations. City compliance violations required immediate attention and system redesign.`,
         solution: `Installed advanced grease management system with automatic cleaning cycles, odor control technology, and compliance monitoring. Integrated with kitchen operations for optimal performance.`,
         results: [

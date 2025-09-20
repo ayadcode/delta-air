@@ -13,15 +13,15 @@ const TeamCulture = () => {
         "Our state-of-the-art facilities foster collaboration, creativity, and professional growth in an environment designed for engineering excellence.",
       images: [
         {
-          src: "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Delta Air modern office workspace",
         },
         {
-          src: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Collaborative meeting spaces and engineering workstations",
         },
         {
-          src: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Team collaboration and project planning sessions",
         },
       ],
@@ -38,15 +38,15 @@ const TeamCulture = () => {
         "We invest heavily in our team's growth through continuous learning, certifications, and exposure to cutting-edge MEP technologies.",
       images: [
         {
-          src: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Professional training and development sessions",
         },
         {
-          src: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Industry certification and continuing education programs",
         },
         {
-          src: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Technology training and skill development workshops",
         },
       ],
@@ -63,15 +63,15 @@ const TeamCulture = () => {
         "Our collaborative culture breaks down silos, encouraging cross-functional teamwork that delivers innovative solutions for complex MEP challenges.",
       images: [
         {
-          src: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Cross-functional team collaboration and project planning",
         },
         {
-          src: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Engineering teams working together on MEP solutions",
         },
         {
-          src: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          // src: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
           alt: "Project review meetings and technical discussions",
         },
       ],

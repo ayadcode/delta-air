@@ -17,8 +17,8 @@ const ProjectDashboard = () => {
       phase: "Final Systems Testing",
       startDate: "2024-03-15",
       expectedCompletion: "2024-12-20",
-      image:
-        "https://images.unsplash.com/photo-1551190822-a9333d879b1f?w=600&h=400&fit=crop",
+      // image:
+      // "https://images.unsplash.com/photo-1551190822-a9333d879b1f?w=600&h=400&fit=crop",
       systems: ["HVAC", "Electrical", "Medical Gas"],
       teamSize: 12,
       budget: "$2.8M",
@@ -83,8 +83,8 @@ const ProjectDashboard = () => {
       phase: "Design Development",
       startDate: "2024-11-01",
       expectedCompletion: "2025-08-30",
-      image:
-        "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop",
+      // image:
+      // "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop",
       systems: ["Industrial HVAC", "High-Voltage", "Process Cooling"],
       teamSize: 10,
       budget: "$4.1M",
