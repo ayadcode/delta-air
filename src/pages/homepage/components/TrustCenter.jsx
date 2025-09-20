@@ -121,7 +121,7 @@ const TrustCenter = () => {
     },
     {
       name: "Johnson Controls",
-      type: "Premier Partner",
+      type: "Delta Air Partner",
       logo: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=100&h=60&fit=crop",
       description: "Fire safety and security systems",
     },

@@ -92,7 +92,7 @@ const ContactHero = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Mail" size={18} className="text-white/80" />
-                  <span className="text-white">info@premiermep.com</span>
+                  <span className="text-white">info@deltaair.com</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Clock" size={18} className="text-white/80" />

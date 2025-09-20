@@ -40,7 +40,7 @@ const Homepage = () => {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold">Premier MEP Solutions</h3>
+                  <h3 className="text-xl font-bold">Delta Air</h3>
                   <p className="text-sm text-gray-400">
                     Building Tomorrow's Infrastructure Today
                   </p>
@@ -58,7 +58,7 @@ const Homepage = () => {
                 </div>
                 <div className="flex items-center space-x-2 text-sm text-gray-300">
                   <span>✉️</span>
-                  <span>info@premiermep.com</span>
+                  <span>info@deltaair.com</span>
                 </div>
               </div>
             </div>
@@ -160,8 +160,7 @@ const Homepage = () => {
 
           <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-gray-400">
-              © {new Date()?.getFullYear()} Premier MEP Solutions. All rights
-              reserved.
+              © {new Date()?.getFullYear()} Delta Air. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a

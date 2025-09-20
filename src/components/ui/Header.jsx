@@ -65,7 +65,7 @@ const Header = () => {
               </div>
               <div className="hidden sm:block">
                 <h1 className="text-xl lg:text-2xl font-bold text-primary">
-                  Premier MEP
+                  Delta Air
                 </h1>
                 <p className="text-xs lg:text-sm text-text-secondary font-medium">
                   Solutions

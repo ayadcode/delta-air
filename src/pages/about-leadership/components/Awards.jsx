@@ -18,7 +18,7 @@ const Awards = () => {
       image:
         "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       significance:
-        "Premier industry recognition for overall excellence in MEP contracting and project delivery.",
+        "Delta Air industry recognition for overall excellence in MEP contracting and project delivery.",
       icon: "Trophy",
     },
     {
@@ -227,7 +227,7 @@ const Awards = () => {
               <div className="relative h-48 overflow-hidden">
                 <Image
                   src={award?.image}
-                  alt={`${award?.title} - Premier MEP Solutions award recognition`}
+                  alt={`${award?.title} - Delta Air award recognition`}
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>

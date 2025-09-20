@@ -14,7 +14,7 @@ const TeamCulture = () => {
       images: [
         {
           src: "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          alt: "Premier MEP Solutions modern office workspace",
+          alt: "Delta Air modern office workspace",
         },
         {
           src: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
@@ -290,7 +290,7 @@ const TeamCulture = () => {
             <p className="text-white/90 text-lg mb-8 leading-relaxed">
               We're always looking for talented professionals who share our
               passion for engineering excellence and innovation. Explore
-              opportunities to grow your career with Premier MEP Solutions.
+              opportunities to grow your career with Delta Air.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

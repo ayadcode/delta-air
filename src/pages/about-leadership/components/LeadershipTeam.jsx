@@ -14,7 +14,7 @@ const LeadershipTeam = () => {
       experience: "25+ Years",
       image:
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-      bio: `Michael founded Premier MEP Solutions with a vision to revolutionize infrastructure development. His leadership has guided the company through 25 years of growth and innovation.`,
+      bio: `Michael founded Delta Air with a vision to revolutionize infrastructure development. His leadership has guided the company through 25 years of growth and innovation.`,
       specializations: [
         "Strategic Planning",
         "Business Development",
@@ -32,7 +32,7 @@ const LeadershipTeam = () => {
         "Recognized as MEP Industry Innovator 2023",
       ],
       contact: {
-        email: "michael.rodriguez@premiermep.com",
+        email: "michael.rodriguez@deltaair.com",
         linkedin: "linkedin.com/in/michael-rodriguez-mep",
       },
     },
@@ -43,7 +43,7 @@ const LeadershipTeam = () => {
       experience: "18+ Years",
       image:
         "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-      bio: `Sarah leads Premier's technology initiatives, driving innovation in smart building systems and sustainable MEP solutions. Her expertise spans both traditional engineering and cutting-edge IoT integration.`,
+      bio: `Sarah leads Delta Air's technology initiatives, driving innovation in smart building systems and sustainable MEP solutions. Her expertise spans both traditional engineering and cutting-edge IoT integration.`,
       specializations: [
         "Smart Building Technology",
         "IoT Integration",
@@ -61,7 +61,7 @@ const LeadershipTeam = () => {
         "Patent holder for smart HVAC control systems",
       ],
       contact: {
-        email: "sarah.chen@premiermep.com",
+        email: "sarah.chen@deltaair.com",
         linkedin: "linkedin.com/in/sarah-chen-tech",
       },
     },
@@ -72,7 +72,7 @@ const LeadershipTeam = () => {
       experience: "22+ Years",
       image:
         "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-      bio: `David oversees all operational aspects of Premier MEP Solutions, ensuring project delivery excellence and maintaining our industry-leading safety standards across all installations.`,
+      bio: `David oversees all operational aspects of Delta Air, ensuring project delivery excellence and maintaining our industry-leading safety standards across all installations.`,
       specializations: [
         "Project Management",
         "Safety Compliance",
@@ -90,7 +90,7 @@ const LeadershipTeam = () => {
         "Implemented lean construction methodologies",
       ],
       contact: {
-        email: "david.thompson@premiermep.com",
+        email: "david.thompson@deltaair.com",
         linkedin: "linkedin.com/in/david-thompson-ops",
       },
     },
@@ -101,7 +101,7 @@ const LeadershipTeam = () => {
       experience: "15+ Years",
       image:
         "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-      bio: `Jennifer manages Premier's financial strategy and growth initiatives. Her expertise in construction finance and risk management has been instrumental in the company's sustained profitability.`,
+      bio: `Jennifer manages Delta Air's financial strategy and growth initiatives. Her expertise in construction finance and risk management has been instrumental in the company's sustained profitability.`,
       specializations: [
         "Financial Planning",
         "Risk Management",
@@ -119,7 +119,7 @@ const LeadershipTeam = () => {
         "Established strategic partnerships with major suppliers",
       ],
       contact: {
-        email: "jennifer.martinez@premiermep.com",
+        email: "jennifer.martinez@deltaair.com",
         linkedin: "linkedin.com/in/jennifer-martinez-cfo",
       },
     },

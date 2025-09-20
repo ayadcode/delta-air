@@ -24,7 +24,7 @@ const HeroSection = () => {
             <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">
               Meet the Team Behind
               <span className="block text-gradient-primary bg-gradient-to-r from-accent to-warning bg-clip-text text-transparent">
-                Premier MEP Solutions
+                Delta Air
               </span>
             </h1>
 
@@ -62,7 +62,7 @@ const HeroSection = () => {
             <div className="relative rounded-2xl overflow-hidden shadow-brand-lg">
               <Image
                 src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                alt="Premier MEP Solutions leadership team in modern office environment"
+                alt="Delta Air leadership team in modern office environment"
                 className="w-full h-[400px] lg:h-[500px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent"></div>

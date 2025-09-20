@@ -129,10 +129,10 @@ const ServicesOverview = () => {
               Comprehensive MEP Solutions
             </h1>
             <p className="text-xl text-text-secondary max-w-4xl mx-auto leading-relaxed">
-              Premier MEP delivers integrated mechanical, electrical, and
-              plumbing services that power modern buildings. From design to
-              maintenance, we're your trusted partner for reliable, efficient,
-              and compliant MEP systems.
+              Delta Air delivers integrated mechanical, electrical, and plumbing
+              services that power modern buildings. From design to maintenance,
+              we're your trusted partner for reliable, efficient, and compliant
+              MEP systems.
             </p>
           </div>
 
@@ -322,8 +322,8 @@ const ServicesOverview = () => {
             Ready to Start Your MEP Project?
           </h2>
           <p className="text-xl text-white/90 mb-8">
-            Get expert consultation and detailed project planning from Premier
-            MEP's experienced team.
+            Get expert consultation and detailed project planning from Delta Air
+            experienced team.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
@@ -366,7 +366,7 @@ const ServicesOverview = () => {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold">Premier MEP</h3>
+                  <h3 className="text-xl font-bold">Delta Air</h3>
                   <p className="text-sm text-slate-300">Solutions</p>
                 </div>
               </div>
@@ -431,7 +431,7 @@ const ServicesOverview = () => {
               <ul className="space-y-2 text-slate-300">
                 <li>Emergency: (555) 123-HELP</li>
                 <li>Office: (555) 123-4567</li>
-                <li>info@premiermep.com</li>
+                <li>info@deltaair.com</li>
                 <li>Available 24/7</li>
               </ul>
             </div>
@@ -439,8 +439,7 @@ const ServicesOverview = () => {
 
           <div className="border-t border-slate-700 mt-8 pt-8 text-center text-slate-300">
             <p>
-              &copy; {new Date()?.getFullYear()} Premier MEP Solutions. All
-              rights reserved.
+              &copy; {new Date()?.getFullYear()} Delta Air. All rights reserved.
             </p>
           </div>
         </div>

@@ -111,7 +111,7 @@ const ProjectPortfolio = () => {
       ],
       testimonial: {
         quote:
-          "Premier MEP's expertise and professionalism exceeded our expectations. They delivered a world-class HVAC system while maintaining our critical operations.",
+          "Delta Air's expertise and professionalism exceeded our expectations. They delivered a world-class HVAC system while maintaining our critical operations.",
         author: "Dr. Sarah Mitchell",
         position: "Chief Medical Officer, Metropolitan Hospital",
       },
@@ -205,7 +205,7 @@ const ProjectPortfolio = () => {
       ],
       testimonial: {
         quote:
-          "The electrical infrastructure Premier MEP designed has made our building a model of sustainability and efficiency in the business district.",
+          "The electrical infrastructure Delta Air designed has made our building a model of sustainability and efficiency in the business district.",
         author: "Michael Chen",
         position: "Property Manager, Green Office Complex",
       },
@@ -300,7 +300,7 @@ const ProjectPortfolio = () => {
       ],
       testimonial: {
         quote:
-          "Premier MEP delivered exceptional plumbing and fire safety systems that exceed industry standards while supporting our sustainability goals.",
+          "Delta Air delivered exceptional plumbing and fire safety systems that exceed industry standards while supporting our sustainability goals.",
         author: "Amanda Rodriguez",
         position: "General Manager, Coastal Luxury Resort",
       },
@@ -394,7 +394,7 @@ const ProjectPortfolio = () => {
       ],
       testimonial: {
         quote:
-          "Premier MEP's integrated approach created a manufacturing environment that supports our precision processes while delivering exceptional energy efficiency.",
+          "Delta Air integrated approach created a manufacturing environment that supports our precision processes while delivering exceptional energy efficiency.",
         author: "David Park",
         position: "Plant Manager, Advanced Manufacturing Corp",
       },
@@ -486,7 +486,7 @@ const ProjectPortfolio = () => {
       ],
       testimonial: {
         quote:
-          "Premier MEP transformed our campus infrastructure while respecting our academic mission. The energy savings allow us to invest more in education.",
+          "Delta Air transformed our campus infrastructure while respecting our academic mission. The energy savings allow us to invest more in education.",
         author: "Dr. Jennifer Walsh",
         position: "Vice President of Operations, State University",
       },
@@ -580,7 +580,7 @@ const ProjectPortfolio = () => {
       ],
       testimonial: {
         quote:
-          "Premier MEP delivered a data center infrastructure that exceeds our reliability requirements while optimizing operational efficiency.",
+          "Delta Air delivered a data center infrastructure that exceeds our reliability requirements while optimizing operational efficiency.",
         author: "Robert Kim",
         position: "CTO, CloudTech Solutions",
       },
@@ -875,7 +875,7 @@ const ProjectPortfolio = () => {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold">Premier MEP</h3>
+                  <h3 className="text-xl font-bold">Delta Air</h3>
                   <p className="text-sm opacity-80">Solutions</p>
                 </div>
               </div>
@@ -955,7 +955,7 @@ const ProjectPortfolio = () => {
                 </div>
                 <div className="flex items-center">
                   <Icon name="Mail" size={16} className="mr-2" />
-                  <span>info@premiermep.com</span>
+                  <span>info@deltair.com</span>
                 </div>
                 <div className="flex items-start">
                   <Icon name="MapPin" size={16} className="mr-2 mt-1" />
@@ -971,8 +971,7 @@ const ProjectPortfolio = () => {
 
           <div className="border-t border-white/20 mt-8 pt-8 text-center text-white/60">
             <p>
-              &copy; {new Date()?.getFullYear()} Premier MEP Solutions. All
-              rights reserved.
+              &copy; {new Date()?.getFullYear()} Delta Air. All rights reserved.
             </p>
           </div>
         </div>

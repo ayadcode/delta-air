@@ -369,7 +369,7 @@ const SustainabilityShowcase = () => {
                 Ready to Build Sustainably?
               </h3>
               <p className="text-lg opacity-90 mb-6">
-                Partner with Premier MEP to create energy-efficient,
+                Partner with Delta Air to create energy-efficient,
                 environmentally responsible buildings that reduce costs and
                 environmental impact.
               </p>

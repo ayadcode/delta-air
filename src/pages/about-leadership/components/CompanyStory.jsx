@@ -8,14 +8,14 @@ const CompanyStory = () => {
       year: "1999",
       title: "Foundation & Vision",
       description:
-        "Premier MEP Solutions was founded with a mission to revolutionize infrastructure development through innovative engineering solutions.",
+        "Delta Air Solutions was founded with a mission to revolutionize infrastructure development through innovative engineering solutions.",
       icon: "Rocket",
     },
     {
       year: "2005",
       title: "First Major Contract",
       description:
-        "Secured our first multi-million dollar commercial project, establishing Premier as a trusted partner for complex MEP installations.",
+        "Secured our first multi-million dollar commercial project, establishing Delta Air as a trusted partner for complex MEP installations.",
       icon: "Building",
     },
     {
@@ -29,14 +29,14 @@ const CompanyStory = () => {
       year: "2018",
       title: "Technology Integration",
       description:
-        "Integrated smart building technologies and IoT solutions, positioning Premier at the forefront of intelligent infrastructure.",
+        "Integrated smart building technologies and IoT solutions, positioning Delta Air at the forefront of intelligent infrastructure.",
       icon: "Cpu",
     },
     {
       year: "2024",
       title: "Industry Leadership",
       description:
-        "Recognized as a premier MEP contractor with over 500 successful projects and industry-leading safety standards.",
+        "Recognized as a Delta Air contractor with over 500 successful projects and industry-leading safety standards.",
       icon: "Award",
     },
   ];
@@ -59,9 +59,9 @@ const CompanyStory = () => {
           </h2>
 
           <p className="text-xl text-text-secondary max-w-3xl mx-auto leading-relaxed">
-            From humble beginnings to industry leadership, Premier MEP Solutions
-            has consistently delivered innovative engineering solutions that
-            shape the future of infrastructure development.
+            From humble beginnings to industry leadership, Delta Air has
+            consistently delivered innovative engineering solutions that shape
+            the future of infrastructure development.
           </p>
         </div>
 
@@ -74,12 +74,11 @@ const CompanyStory = () => {
 
             <div className="space-y-6 text-text-secondary leading-relaxed">
               <p>
-                Premier MEP Solutions was born from a simple yet powerful
-                vision: to transform how mechanical, electrical, and plumbing
-                systems are designed, installed, and maintained in modern
-                buildings. Our founders recognized that traditional MEP
-                approaches were holding back the construction industry's
-                potential.
+                Delta Air was born from a simple yet powerful vision: to
+                transform how mechanical, electrical, and plumbing systems are
+                designed, installed, and maintained in modern buildings. Our
+                founders recognized that traditional MEP approaches were holding
+                back the construction industry's potential.
               </p>
 
               <p>
@@ -91,11 +90,10 @@ const CompanyStory = () => {
               </p>
 
               <p>
-                Today, Premier MEP Solutions stands as a testament to what's
-                possible when engineering expertise meets visionary thinking.
-                We've grown from a local contractor to an industry leader, but
-                our commitment to innovation and client success remains
-                unchanged.
+                Today, Delta Air stands as a testament to what's possible when
+                engineering expertise meets visionary thinking. We've grown from
+                a local contractor to an industry leader, but our commitment to
+                innovation and client success remains unchanged.
               </p>
             </div>
 
@@ -120,7 +118,7 @@ const CompanyStory = () => {
             <div className="rounded-2xl overflow-hidden shadow-brand-lg">
               <Image
                 src="https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                alt="Premier MEP Solutions office building and team workspace"
+                alt="Delta Air office building and team workspace"
                 className="w-full h-[500px] object-cover"
               />
             </div>

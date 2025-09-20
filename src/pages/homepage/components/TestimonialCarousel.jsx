@@ -16,7 +16,7 @@ const TestimonialCarousel = () => {
       image:
         "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
       rating: 5,
-      content: `Premier MEP transformed our hospital's aging HVAC system into a state-of-the-art climate control solution. The installation was completed 2 weeks ahead of schedule with zero disruption to patient care. Our energy costs have dropped by 40% while maintaining perfect temperature control throughout all departments.`,
+      content: `Delta Air transformed our hospital's aging HVAC system into a state-of-the-art climate control solution. The installation was completed 2 weeks ahead of schedule with zero disruption to patient care. Our energy costs have dropped by 40% while maintaining perfect temperature control throughout all departments.`,
       project: "Hospital HVAC Modernization",
       savings: "$180,000 annually",
       timeline: "Completed 2 weeks early",
@@ -30,7 +30,7 @@ const TestimonialCarousel = () => {
       image:
         "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
       rating: 5,
-      content: `Working with Premier MEP on our 40-story residential tower was exceptional. Their smart building integration and energy-efficient systems helped us achieve LEED Gold certification. The attention to detail and proactive communication throughout the project was outstanding. Every unit now has individual climate control with 50% lower operating costs.`,
+      content: `Working with Delta Air on our 40-story residential tower was exceptional. Their smart building integration and energy-efficient systems helped us achieve LEED Gold certification. The attention to detail and proactive communication throughout the project was outstanding. Every unit now has individual climate control with 50% lower operating costs.`,
       project: "Luxury Residential Tower",
       savings: "50% energy reduction",
       timeline: "LEED Gold certified",
@@ -44,7 +44,7 @@ const TestimonialCarousel = () => {
       image:
         "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
       rating: 5,
-      content: `Premier MEP's industrial expertise was evident from day one. They redesigned our manufacturing facility's electrical and cooling systems to handle our increased production capacity. The new systems are 35% more efficient and have eliminated all the downtime we were experiencing. Their 24/7 maintenance support gives us complete peace of mind.`,
+      content: `Delta Air's industrial expertise was evident from day one. They redesigned our manufacturing facility's electrical and cooling systems to handle our increased production capacity. The new systems are 35% more efficient and have eliminated all the downtime we were experiencing. Their 24/7 maintenance support gives us complete peace of mind.`,
       project: "Manufacturing Facility Upgrade",
       savings: "35% efficiency improvement",
       timeline: "Zero production downtime",
@@ -58,7 +58,7 @@ const TestimonialCarousel = () => {
       image:
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
       rating: 5,
-      content: `Premier MEP upgraded MEP systems across 12 schools in our district. Their phased approach ensured minimal disruption to classes, and the new energy-efficient systems have saved us over $300,000 annually. The improved air quality and lighting have created better learning environments for our 8,000 students.`,
+      content: `Delta Air upgraded MEP systems across 12 schools in our district. Their phased approach ensured minimal disruption to classes, and the new energy-efficient systems have saved us over $300,000 annually. The improved air quality and lighting have created better learning environments for our 8,000 students.`,
       project: "Multi-School District Upgrade",
       savings: "$300,000 annually",
       timeline: "12 schools completed",
@@ -72,7 +72,7 @@ const TestimonialCarousel = () => {
       image:
         "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&h=150&fit=crop&crop=face",
       rating: 5,
-      content: `Premier MEP has been our go-to partner for all 15 restaurant locations. Their commercial kitchen ventilation systems and energy-efficient solutions have reduced our utility costs by 45% across all locations. When we had an emergency at our flagship location, they had a team there within 2 hours. Exceptional service and reliability.`,
+      content: `Delta Air has been our go-to partner for all 15 restaurant locations. Their commercial kitchen ventilation systems and energy-efficient solutions have reduced our utility costs by 45% across all locations. When we had an emergency at our flagship location, they had a team there within 2 hours. Exceptional service and reliability.`,
       project: "Multi-Location Restaurant Chain",
       savings: "45% utility cost reduction",
       timeline: "15 locations served",
@@ -127,7 +127,7 @@ const TestimonialCarousel = () => {
 
           <p className="text-lg text-text-secondary max-w-3xl mx-auto">
             Real testimonials from satisfied clients who have experienced the
-            Premier MEP difference in their projects.
+            Delta Air difference in their projects.
           </p>
         </div>
 
@@ -330,7 +330,7 @@ const TestimonialCarousel = () => {
               Ready to Join Our Success Stories?
             </h3>
             <p className="text-text-secondary mb-6">
-              Experience the Premier MEP difference for your next project. Get a
+              Experience the Delta Air difference for your next project. Get a
               free consultation and see how we can exceed your expectations.
             </p>
 

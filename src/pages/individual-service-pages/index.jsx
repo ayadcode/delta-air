@@ -88,7 +88,7 @@ const IndividualServicePages = () => {
                 </div>
                 <div className="flex items-center justify-center space-x-3 text-white">
                   <Icon name="Mail" size={20} />
-                  <span className="font-medium">info@premiermep.com</span>
+                  <span className="font-medium">info@deltaair.com</span>
                 </div>
                 <div className="flex items-center justify-center space-x-3 text-white">
                   <Icon name="Clock" size={20} />
@@ -119,7 +119,7 @@ const IndividualServicePages = () => {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold">Premier MEP</h3>
+                  <h3 className="text-lg font-bold">Delta Air</h3>
                   <p className="text-sm text-slate-400">Solutions</p>
                 </div>
               </div>
@@ -217,7 +217,7 @@ const IndividualServicePages = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" size={14} />
-                  <span>info@premiermep.com</span>
+                  <span>info@deltaair.com</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="MapPin" size={14} />
@@ -229,8 +229,7 @@ const IndividualServicePages = () => {
 
           <div className="border-t border-slate-800 mt-8 pt-8 text-center">
             <p className="text-slate-400 text-sm">
-              © {new Date()?.getFullYear()} Premier MEP Solutions. All rights
-              reserved.
+              © {new Date()?.getFullYear()} Delta Air. All rights reserved.
             </p>
           </div>
         </div>

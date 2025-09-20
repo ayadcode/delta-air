@@ -317,10 +317,10 @@ const TrustCenter = () => {
                 Fully Licensed & Insured
               </h3>
               <p className="text-lg text-text-secondary mb-8 max-w-3xl mx-auto">
-                Premier MEP Solutions maintains all required licenses,
-                certifications, and insurance coverage to protect your project
-                investment. Our compliance documentation is available for review
-                during the procurement process.
+                Delta Air maintains all required licenses, certifications, and
+                insurance coverage to protect your project investment. Our
+                compliance documentation is available for review during the
+                procurement process.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <div className="flex items-center space-x-2 text-text-primary">

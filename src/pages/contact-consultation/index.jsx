@@ -79,7 +79,7 @@ const ContactConsultation = () => {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold">Premier MEP Solutions</h3>
+                  <h3 className="text-xl font-bold">Delta Air</h3>
                   <p className="text-white/80 text-sm">
                     Building Tomorrow's Infrastructure Today
                   </p>
@@ -169,7 +169,7 @@ const ContactConsultation = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" size={16} />
-                  <span>info@premiermep.com</span>
+                  <span>info@deltaair.com</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="MapPin" size={16} />
@@ -185,8 +185,7 @@ const ContactConsultation = () => {
 
           <div className="border-t border-white/20 mt-8 pt-8 text-center text-white/60">
             <p>
-              &copy; {new Date()?.getFullYear()} Premier MEP Solutions. All
-              rights reserved.
+              &copy; {new Date()?.getFullYear()} Delta Air. All rights reserved.
             </p>
           </div>
         </div>

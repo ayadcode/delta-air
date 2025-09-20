@@ -206,7 +206,7 @@ const CoreValues = () => {
                 <div className="mt-6 rounded-xl overflow-hidden">
                   <Image
                     src={value?.image}
-                    alt={`${value?.title} - Premier MEP Solutions core value demonstration`}
+                    alt={`${value?.title} - Delta Air core value demonstration`}
                     className="w-full h-32 object-cover opacity-80 hover:opacity-100 transition-brand"
                   />
                 </div>

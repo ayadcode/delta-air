@@ -397,7 +397,7 @@ const Partnerships = () => {
             </div>
 
             <p className="text-white/90 text-lg leading-relaxed">
-              Our strategic partnerships ensure that every Premier MEP project
+              Our strategic partnerships ensure that every Delta Air project
               benefits from the latest technology, competitive pricing, and
               unmatched technical support—delivering superior value to our
               clients.

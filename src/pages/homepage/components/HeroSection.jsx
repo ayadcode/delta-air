@@ -106,9 +106,9 @@ const HeroSection = () => {
               </h1>
 
               <p className="text-lg lg:text-xl text-text-secondary leading-relaxed max-w-xl">
-                Premier MEP Solutions delivers comprehensive mechanical,
-                electrical, and plumbing systems that power modern buildings
-                with precision, efficiency, and sustainability.
+                Delta Air delivers comprehensive mechanical, electrical, and
+                plumbing systems that power modern buildings with precision,
+                efficiency, and sustainability.
               </p>
             </div>
 
